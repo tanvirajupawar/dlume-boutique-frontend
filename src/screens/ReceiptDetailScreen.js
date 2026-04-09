@@ -333,7 +333,7 @@ const generatePDF = async () => {
       {/* 🔹 Receipt Card */}
       <View style={styles.card}>
         <View style={styles.header}>
-          <Text style={styles.brand}>ARCHIES</Text>
+          <Text style={styles.brand}>D'Lume Boutique</Text>
           <Text style={styles.subtitle}>Payment Receipt</Text>
         </View>
 

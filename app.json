@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Archies",
-    "slug": "archies-clean",
+    "name": "DLumeBoutique",
+    "slug": "dlume-boutique",
     "version": "1.0.0",
     "orientation": "landscape",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "backgroundColor": "#0F172A"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.dlume_expo15.archiesclean"
+      "package": "com.dlume_expo15.dlumeboutique"
     },
     "web": {
       "favicon": "./assets/favicon.png"

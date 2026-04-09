@@ -140,7 +140,7 @@ login(role, staffId, user, token);
             </View>
 
             <Text style={styles.footer}>
-              © 2024 Archies. All rights reserved.
+              © 2024 D'Lume Boutique. All rights reserved.
             </Text>
           </View>
         </View>
